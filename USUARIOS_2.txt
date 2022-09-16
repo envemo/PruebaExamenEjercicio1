@@ -1,0 +1,4 @@
+Nombre		Fecha de Nacimiento	Fecha de Registro  	Ultima Fecha de Login		Cantidad de Compras     	Pais
+Alba			   04/02/1994		  12/09/2022			16/09/2022				 10 			   ESPAÑA
+Alvaro		   05/03/1996		  12/10/2020			10/05/2021				 5			   ESPAÑA
+Alejandro		   06/04/1997		  11/11/2021			1/1/2022				 4			   ESPAÑA

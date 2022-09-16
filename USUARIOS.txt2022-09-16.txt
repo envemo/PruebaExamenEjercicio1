@@ -1,0 +1,10 @@
+Nombre		Nacimiento	País			Registro	Login		  Compras
+Alejandro		06/04/1997 	ESPAÃ‘A 		11/11/2021 	1/1/2022    4
+Carlos		05/05/1999 	ESPAÃ‘A 		10/10/2020 	10/10/2021    5
+Alvaro		05/03/1996 	ESPAÃ‘A 		12/10/2020 	10/05/2021    5
+Alba		04/02/1994 	ESPAÃ‘A 		12/09/2022 	16/09/2022    10
+Gustavo		04/06/1991 	ARGENTINA 		16/09/2022 	16/09/2022    10
+Adrian		06/06/1998 	ESPAÃ‘A 		11/11/2021 	12/12/2021    4
+Gustavo		04/06/1991 	ARGENTINA 		16/09/2022 	16/09/2022    10
+Daniel		05/05/2003 	ESPAÃ‘A 		10/10/2021 	10/10/2021    1
+Ivan		06/06/1998 	ESPAÃ‘A 		11/11/2021 	12/12/2021    3

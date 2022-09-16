@@ -1,0 +1,29 @@
+EJERCICIO DE EXAMEN:
+
+Somos parte del equipo de una empresa de tecnologia y en el marco de un proyecto de transformación digital nos piden que generemos un 
+programa que gestione la información de los usuarios. Hoy en día el sistema que esta funcionando tiene un archivo plano por cada pais 
+y se busca unificar los criterios llevando toda la información fragmentada en 1 solo archivo. De la información se busca calcular 
+lo siguiente: 
+- Antiguedad del usuario (Calculo en base a su fecha de registro y la fecha actual)
+- Segmento del usuario: 
+  Para los usuarios que hayan comprado entre 1 y 5 productos se los denomina "Estandar User"
+  Entre 6 y 10 productos "Affiliate"
+  Mas que 11 productos "Premier"
+- Status del usuario: Para usuarios que no se loguean hace mas de 2 años se los considera "Inactivos" para los demas "Activos"
+- Edad del usuario: Calculo entre la fecha de nacimiento y la fecha actual
+
+Una vez calculado eso, unificar tambien el resto de la información en 1 solo archivo de salida para cada usuario.
+
+ESTRUCTURA DEL PROGRAMA:
+- Debe contar con 4 interfaces, una para cada una de las acciones que se deben realizar. Cada una debe emplear una funcion distinta
+- Aplicar herencia entre las clases Usuario y Persona. Esto no significa que no pueda haber mas clases, porque pueden haber mas clases.
+- (!) La información de salida no puede tener valores DUPLICADOS (!)
+
+
+ENTREGABLES: 
+- Codigo del proyecto
+- TXT de salida final llamado "informeDiario_fechaDeHoy"
+
+CONSIDERACIONES:
+- Se puede manipular la estructura de los TXT para ayudar al programa
+- No se puede utilizar do/while

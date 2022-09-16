@@ -1,0 +1,4 @@
+Nombre		Fecha de Nacimiento	Fecha de Registro  	Ultima Fecha de Login		Cantidad de Compras		Pais
+Gustavo		   04/06/1991		  16/09/2022			16/09/2022				 10 			   ARGENTINA
+Carlos		   05/05/1999		  10/10/2020			10/10/2021				 5			   ESPAÑA
+Adrian		   06/06/1998		  11/11/2021			12/12/2021				 4			   ESPAÑA
